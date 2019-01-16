@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GostaDeSéries</string>
+    <string name="min_seek">Pouco</string>
+    <string name="max_seek">Muito</string>
+</resources>
